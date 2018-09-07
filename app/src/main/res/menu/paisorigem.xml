@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/p1"
+        android:title="Brazil"
+        />
+    <item
+        android:id="@+id/p2"
+        android:title="EUA"
+        />
+    <item
+        android:id="@+id/p3"
+        android:title="Rússia"
+        />
+    <item
+        android:id="@+id/p4"
+        android:title="Japão"
+        />
+    <item
+        android:id="@+id/p5"
+        android:title="China"
+        />
+
+</menu>

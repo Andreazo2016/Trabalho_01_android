@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/listView"
+        android:title="Lista de Filmes"
+        />
+    <item
+        android:id="@+id/tocar_musica"
+        android:title="Tocar Musica"
+
+        />
+    <item
+        android:id="@+id/imageFundo"
+        android:title="Imagem de Fundo"
+
+        />
+    <item
+        android:id="@+id/About"
+        android:title="Sobre o app"
+
+        />
+    <item
+        android:id="@+id/Tabs"
+        android:title="Tab"
+
+        />
+    <item
+        android:id="@+id/autocomplete"
+        android:title="Autocomplete"
+        />
+    <item
+        android:id="@+id/grid"
+        android:title="GridView"
+        />
+</menu>

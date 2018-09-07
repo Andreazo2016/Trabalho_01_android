@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Trabalho_01_android</string>
+    <string name="btn_novos_filmes">Novos filmes</string>
+    <string name="txt_Edit">Edit Text</string>
+    <string name="btn_Toogle">Toggle Button</string>
+    <string name="btn_about">Click para Saber mais</string>
+    <string name="play">Tocar</string>
+    <string name="stop">Pausado</string>
+    <string-array name="classificacaoFilmes">
+        <item>Adulto</item>
+        <item>infantil</item>
+        <item>Adolecente</item>
+    </string-array>
+</resources>
